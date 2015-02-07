@@ -44,16 +44,16 @@
 .post-thumb {
 	float: left;
 	width: 338px;
-	margin-top: 20px;
-	margin-left: 20px;
+	margin-top: 50px;
+	margin-left: 100px;
 	
 }
 
 .post-title {
 	float: right;
-	width: 450px;
+	width: 550px;
 	font-size: 30px;
-	margin-left: 50px;
+	margin-left: -50px;
 	margin-right: 100px;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-transform: uppercase; 
@@ -64,32 +64,32 @@
 
 p.paragraph {
 	float: right;
-	width: 450px;
-	margin-left: 50px;
+	width: 550px;
+	margin-left: -50px;
 	margin-right: 100px;
 	text-align: left;	
 }
 
 p.paragraph2 {
 	float: right;
-	width: 450px;
-	margin-left: 50px;
+	width: 550px;
+	margin-left: -50px;
 	margin-right: 100px;
 	text-align: left;	
 }
 
 p.paragraph3 {
 	float: right;
-	width: 450px;
-	margin-left: 50px;
+	width: 550px;
+	margin-left: -50px;
 	margin-right: 100px;
 	text-align: left;	
 }
 
 p.paragraph4 {
 	float: right;
-	width: 450px;
-	margin-left: 50px;
+	width: 550px;
+	margin-left: -50px;
 	margin-right: 100px;
 	text-align: left;	
 }

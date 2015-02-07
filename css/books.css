@@ -44,8 +44,8 @@
 .post-thumb {
 	float: left;
 	width: 338px;
-	margin-top: 20px;
-	margin-left: 100px;
+	margin-top: 50px;
+	margin-left: 200px;
 	
 }
 
@@ -65,48 +65,48 @@
 
 p.paragraph {
 	float: right;
-	width: 490px;
-	margin-left: 0px;
+	width: 690px;
+	margin-left: -100px;
 	margin-right: 50px;
 	text-align: left;	
 }
 
 p.paragraph2 {
 	float: right;
-	width: 490px;
-	margin-left: 0px;
+	width: 690px;
+	margin-left: -100px;
 	margin-right: 50px;
 	text-align: left;	
 }
 
 p.paragraph3 {
 	float: right;
-	width: 490px;
-	margin-left: 0px;
+	width: 690px;
+	margin-left: -100px;
 	margin-right: 50px;
 	text-align: left;	
 }
 
 p.paragraph3b {
 	float: right;
-	width: 490px;
-	margin-left: 0px;
+	width: 690px;
+	margin-left: -100px;
 	margin-right: 50px;
 	text-align: left;	
 }
 
 p.paragraph4 {
 	float: right;
-	width: 490px;
-	margin-left: 0px;
+	width: 690px;
+	margin-left: -100px;
 	margin-right: 50px;
 	text-align: left;	
 }
 
 p.paragraph5 {
 	float: right;
-	width: 490px;
-	margin-left: 0px;
+	width: 690px;
+	margin-left: 500px;
 	margin-right: 50px;
 	text-align: left;
 
@@ -117,18 +117,18 @@ p.paragraph5 {
 	text-align: left; */	
 }
 
-p.paragraph6 {
+/*p.paragraph6 {
 	float: right;
 	width: 590px;
-	margin-left: 0px;
+	margin-left: -100px;
 	margin-right: 50px;
 	text-align: left;
-}
+}*/
 
 .pure-form {
 	float: left;
 	width: 350px;
-	margin-left: 450px;
+	margin-left: 520px;
 	text-align: left;
 }
 
