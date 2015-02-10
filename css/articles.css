@@ -50,18 +50,16 @@
 }
 
 .post-thumb-left {
-	float: left;
-	margin-top: 50px;
-	margin-left: 100px;
-	margin-right: 300px;
+	margin-top: 80px;
+	margin-left: 50px;
+	margin-right: 425px;
 	display: inline-block;
 }
 
 .post-thumb-right {
-	float: right;
-	margin-top: 50px;
-	margin-left: 300px;
-	margin-right: 100px;
+	margin-top: 60px;
+	margin-left: -300px;
+	margin-right: 450px;
 	display: inline-block;
 }
 
@@ -120,7 +118,7 @@ p.paragraph3 {
 
 div.column2 {
 	float: right;
-	width: 200px;
+	width: 250px;
 	margin-top: 25px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -130,7 +128,7 @@ div.column2 {
 
 p.paragraph4 {
 	float: right;
-	width: 200px;
+	width: 250px;
 	margin-top: 25px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -140,7 +138,7 @@ p.paragraph4 {
 
 p.paragraph5 {
 	float: right;
-	width: 200px;
+	width: 250px;
 	margin-top: 0px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -151,7 +149,7 @@ p.paragraph5 {
 
 p.paragraph6 {
 	float: right;
-	width: 200px;
+	width: 250px;
 	margin-top: 18px;
 	margin-left: 0px;
 	margin-right: 0px;
