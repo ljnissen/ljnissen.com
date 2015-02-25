@@ -49,58 +49,53 @@
 	margin-left: 100px;
 }
 
-.post-thumb-left {
-	margin-top: 80px;
-	margin-left: 50px;
-	margin-right: 425px;
-	display: inline-block;
-}
-
-.post-thumb-right {
-	margin-top: 60px;
-	margin-left: -300px;
-	margin-right: 450px;
-	display: inline-block;
-}
-
-.post-title {
-	width: 450px;
+h1.post-title {
+	/* width: 400px; */
 	font-size: 30px;
 	margin-left: 0px;
-	margin-right: 100px;
+	margin-right: 0px;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-transform: uppercase; 
 	text-align: left;
 	color: #13366D;
-	display: inline-block;
+	/* display: inline-block; */
+}
+
+h3.post-thumb-left {
+	float: left;
+	margin-top: 23px;
+	margin-right: 0px;
+	display: inline;
+}
+
+h3.post-thumb-right {
+	float: right;
+	margin-right: 345px;
+	display: inline;
 }
 
 div.column1 {
 	float: left;
-	width: 350px;
-	margin-top: 30px;
-	margin-left: 0px;
-	margin-right: 100px;
+	width: 300px;
+	margin-right: 400px;
 	text-align: left;
 	display: inline;
 }
 
 p.paragraph {
 	float: left;
-	width: 350px;
+	width: 300px;
 	margin-top: 30px;
-	margin-left: 0px;
-	margin-right: 100px;
+	margin-right: 400px;
 	text-align: left;
 	display: inline;	
 }
 
 p.paragraph2 {
 	float: left;
-	width: 350px;
+	width: 300px;
 	margin-top: 0px;
-	margin-left: 0px;
-	margin-right: 100px;
+	margin-right: 400px;
 	text-align: left;
 	display: inline;	
 }
@@ -108,9 +103,9 @@ p.paragraph2 {
 
 p.paragraph3 {
 	float: left;
-	width: 350px;
+	width: 300px;
 	margin-left: 0px;
-	margin-right: 100px;
+	margin-right: 400px;
 	font-size: 18px;
 	text-align: left;
 	display: inline;	
@@ -118,30 +113,27 @@ p.paragraph3 {
 
 div.column2 {
 	float: right;
-	width: 250px;
-	margin-top: 25px;
-	margin-left: 0px;
-	margin-right: 0px;
+	width: 262px;
+	margin-top: 11px;
+	margin-right: 137px;
 	text-align: left;
 	display: inline;
 }
 
 p.paragraph4 {
 	float: right;
-	width: 250px;
+	width: 262px;
 	margin-top: 25px;
-	margin-left: 0px;
-	margin-right: 0px;
+	margin-right: 137px;
 	text-align: left;
 	display: inline;		
 }
 
 p.paragraph5 {
 	float: right;
-	width: 250px;
+	width: 262px;
 	margin-top: 0px;
-	margin-left: 0px;
-	margin-right: 5px;
+	margin-right: 137px;
 	text-align: left;
 	display: inline;	
 }
@@ -149,10 +141,9 @@ p.paragraph5 {
 
 p.paragraph6 {
 	float: right;
-	width: 250px;
-	margin-top: 18px;
-	margin-left: 0px;
-	margin-right: 0px;
+	width: 262px;
+	margin-top: 34px;
+	margin-right: 137px;
 	font-size: 18px;
 	text-align: left;
 	display: inline;	

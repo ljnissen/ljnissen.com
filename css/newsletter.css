@@ -52,10 +52,11 @@
 } 
 
 .post-thumb {
-	float: left;
-	width: 500px;
+	float: right;
+	width: 800px;
 	margin-top: 50px;
-	margin-left: 350px;
+	margin-left: 0px;
+	margin-right: 350px;
 	
 }
 
@@ -64,7 +65,7 @@
 	width: 800px;
 	font-size: 28px;
 	margin-left: 0px;
-	margin-right: 120px;
+	margin-right: 350px;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-transform: uppercase; 
 	text-align: left;
@@ -75,24 +76,24 @@
 p.paragraph {
 	float: right;
 	width: 800px;
-	margin-left: 140px;
-	margin-right: 0px;
+	margin-left: 0px;
+	margin-right: 350px;
 	text-align: left;	
 }
 
 p.paragraph2 {
 	float: right;
-	width: 500px;
+	width: 800px;
 	margin-left: 0px;
-	margin-right: 215px;
+	margin-right: 350px;
 	text-align: left;	
 }
 
 p.paragraph3 {
 	float: right;
-	width: 500px;
+	width: 800px;
 	margin-left: 0px;
-	margin-right: 195px;
+	margin-right: 350px;
 	font-size: 18px;
 	color: gray;
 	text-align: left;	
@@ -100,9 +101,10 @@ p.paragraph3 {
 
 
 .pure-form {
-	float: left;
-	width: 350px;
-	margin-left: 255px;
+	float: right;
+	width: 800px;
+	margin-left: 0px;
+	margin-right: 350px;
 	text-align: left;
 }
 

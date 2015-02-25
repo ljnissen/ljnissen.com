@@ -43,71 +43,74 @@
 
 .post-thumb {
 	float: left;
-	width: 338px;
+	/*width: 338px;*/
+	width: 50%;
 	margin-top: 50px;
-	margin-left: 200px;
+	margin-left: 0px;
+	padding-left: 100px;
 	
 }
 
 .post-title {
-	float: right;
-	width: 490px;
+	float: left;
+	/*width: 390px;*/
+	width: 50%;
 	font-size: 28px;
-	margin-top: 30px;
-	/* margin-left: -30px; */
-	margin-right: 50px;
+	margin-left: -25%;
+	margin-right: 0px;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-transform: uppercase; 
 	text-align: left;
 	color: #13366D;
-	display: inline-block;
+	/*display: inline-block;*/
+	padding-top: 25px;
 }
 
 p.paragraph {
-	float: right;
-	width: 690px;
-	margin-left: -100px;
-	margin-right: 50px;
+	float: left;
+	width: 50%;
+	margin-left: -25%;
+	margin-right: 0px;
 	text-align: left;	
 }
 
 p.paragraph2 {
 	float: right;
-	width: 690px;
-	margin-left: -100px;
-	margin-right: 50px;
+	width: 390px;
+	margin-left: 0px;
+	margin-right: 350px;
 	text-align: left;	
 }
 
 p.paragraph3 {
 	float: right;
-	width: 690px;
-	margin-left: -100px;
-	margin-right: 50px;
+	width: 390px;
+	margin-left: 0px;
+	margin-right: 350px;
 	text-align: left;	
 }
 
 p.paragraph3b {
 	float: right;
-	width: 690px;
-	margin-left: -100px;
-	margin-right: 50px;
+	width: 390px;
+	margin-left: 0px;
+	margin-right: 350px;
 	text-align: left;	
 }
 
 p.paragraph4 {
 	float: right;
-	width: 690px;
-	margin-left: -100px;
-	margin-right: 50px;
+	width: 390px;
+	margin-left: 0px;
+	margin-right: 350px;
 	text-align: left;	
 }
 
 p.paragraph5 {
-	float: right;
-	width: 690px;
-	margin-left: 500px;
-	margin-right: 50px;
+	float: left;
+	width: 390px;
+	margin-left: -25%;
+	margin-right: 0px;
 	text-align: left;
 
 	/* float: left;
@@ -127,8 +130,10 @@ p.paragraph5 {
 
 .pure-form {
 	float: left;
+	/*width: 390px;*/
 	width: 350px;
-	margin-left: 520px;
+	margin-left: 415px;
+	margin-right: 0px;
 	text-align: left;
 }
 
