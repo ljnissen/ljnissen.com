@@ -52,20 +52,20 @@
 } 
 
 .post-thumb {
-	float: right;
-	width: 800px;
+	float: left;
+	width: 100%;
 	margin-top: 50px;
-	margin-left: 0px;
-	margin-right: 350px;
+	margin-left: 100px;
+	margin-right: 0px;
 	
 }
 
 .post-title {
-	float: right;
-	width: 800px;
+	float: left;
+	width: 100%;
 	font-size: 28px;
-	margin-left: 0px;
-	margin-right: 350px;
+	margin-left: 100px;
+	margin-right: 0px;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-transform: uppercase; 
 	text-align: left;
@@ -74,26 +74,26 @@
 }
 
 p.paragraph {
-	float: right;
-	width: 800px;
-	margin-left: 0px;
-	margin-right: 350px;
+	float: left;
+	width: 100%;
+	margin-left: 100px;
+	margin-right: 0px;
 	text-align: left;	
 }
 
 p.paragraph2 {
-	float: right;
-	width: 800px;
-	margin-left: 0px;
-	margin-right: 350px;
+	float: left;
+	width: 100%;
+	margin-left: 100px;
+	margin-right: 0px;
 	text-align: left;	
 }
 
 p.paragraph3 {
-	float: right;
-	width: 800px;
-	margin-left: 0px;
-	margin-right: 350px;
+	float: left;
+	width: 100%;
+	margin-left: 100px;
+	margin-right: 0px;
 	font-size: 18px;
 	color: gray;
 	text-align: left;	
@@ -101,10 +101,10 @@ p.paragraph3 {
 
 
 .pure-form {
-	float: right;
-	width: 800px;
-	margin-left: 0px;
-	margin-right: 350px;
+	float: left;
+	width: 35%;
+	margin-left: 100px;
+	margin-right: 0px;
 	text-align: left;
 }
 
