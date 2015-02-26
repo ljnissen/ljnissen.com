@@ -38,18 +38,20 @@
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 24px;
 	color: #484948;
+	display: inline-block;
 } 
 
 .post-container {
-	width: 950px;
+	width: 925px;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 24px;
 }
 
 
 h1.post-title {
+	float: left;
 	font-size: 30px;
-	margin-left: 250px;
+	margin-left: 10%;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-transform: uppercase; 
 	text-align: left;
@@ -68,23 +70,26 @@ h1.post-title {
 }
 
 .post-content {
+	float: left;
 	margin-right: 15px;
 	margin-top: 30px;
-	margin-left: 100px;
+	margin-left: 10%;
 	font-family: Eurostile, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 24px;
 	text-align: left;
-	overflow: visible;
+	overflow: visible; 
 }
 
 p.paragraph {
-	margin-left: 250px;
+	float: left;
+	margin-left: 10%;
 	margin-top: 30px;	
 	text-align: left;	
 }
 
 p.paragraph2 {
-	margin-left: 250px;
+	float: left;
+	margin-left: 10%;
 	padding-top: 15px;
 	text-align: left;	
 }

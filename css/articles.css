@@ -43,14 +43,17 @@
 } 
 
 
-#content_one {
-	margin-right: 15px;
+ #content_one {
+ 	float: left;
+	width: 100%;
+	margin-right: 0px;
 	margin-top: 50px;
-	margin-left: 100px;
-}
+	margin-left: 50px;
+} 
 
 h1.post-title {
-	/* width: 400px; */
+	/* float: left; */
+	width: 50%;
 	font-size: 30px;
 	margin-left: 0px;
 	margin-right: 0px;
@@ -61,93 +64,97 @@ h1.post-title {
 	/* display: inline-block; */
 }
 
+/* div.column1 {
+	float: left;
+	width: 50%;
+	margin-right: 0px;
+	text-align: left;
+	display: inline-block;
+} */
+
 h3.post-thumb-left {
 	float: left;
+	width: 40%;
 	margin-top: 23px;
-	margin-right: 0px;
-	display: inline;
-}
-
-h3.post-thumb-right {
-	float: right;
-	margin-right: 345px;
-	display: inline;
-}
-
-div.column1 {
-	float: left;
-	width: 300px;
-	margin-right: 400px;
-	text-align: left;
-	display: inline;
+	margin-right: 1%;
+	/*display: inline-block;*/
 }
 
 p.paragraph {
 	float: left;
-	width: 300px;
-	margin-top: 30px;
-	margin-right: 400px;
+	width: 40%;
+	margin-top: 25px;
+	margin-right: 1%;
 	text-align: left;
-	display: inline;	
+	/*display: inline-block;*/	
 }
 
-p.paragraph2 {
+/* p.paragraph2 {
 	float: left;
-	width: 300px;
+	width: 50%;
 	margin-top: 0px;
-	margin-right: 400px;
+	margin-right: 0px;
 	text-align: left;
-	display: inline;	
-}
+	display: inline-block;	
+} */
 
 
-p.paragraph3 {
+/* p.paragraph3 {
 	float: left;
-	width: 300px;
+	width: 50%;
 	margin-left: 0px;
-	margin-right: 400px;
+	margin-right: 0px;
 	font-size: 18px;
 	text-align: left;
-	display: inline;	
-}
+	display: inline-block;	
+} */
 
-div.column2 {
-	float: right;
-	width: 262px;
+/* div.column2 {
+	float: left;
+	width: 50%;
 	margin-top: 11px;
-	margin-right: 137px;
+	margin-right: 0px;
 	text-align: left;
-	display: inline;
+	display: inline-block;
+} */
+
+h3.post-thumb-right {
+	float: left;
+	width: 40%;
+	margin-left: 0px;
+	margin-right: 0px;
+	/*display: inline-block;*/
 }
 
 p.paragraph4 {
-	float: right;
-	width: 262px;
+	float: left;
+	width: 40%;
 	margin-top: 25px;
-	margin-right: 137px;
+	margin-left: 0px;
+	margin-right: 0px;
 	text-align: left;
-	display: inline;		
+	/*display: inline-block;*/		
 }
 
-p.paragraph5 {
-	float: right;
-	width: 262px;
+/* p.paragraph5 {
+	float: left;
+	width: 50%;
 	margin-top: 0px;
-	margin-right: 137px;
+	margin-right: 0px;
 	text-align: left;
-	display: inline;	
-}
+	display: inline-block;	
+} */
 
 
-p.paragraph6 {
-	float: right;
-	width: 262px;
-	margin-top: 34px;
-	margin-right: 137px;
+/* p.paragraph6 {
+	float: left;
+	width: 50%;
+	margin-top: 0px;
+	margin-right: 0px;
 	font-size: 18px;
 	text-align: left;
-	display: inline;	
-}
+	display: inline-block;	
+} */
 
 a.over {
 	text-decoration: none;
